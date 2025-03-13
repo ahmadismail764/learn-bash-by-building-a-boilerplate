@@ -313,3 +313,5 @@ rm images/background.jpg
 rmdir images
 clear
 ls --color=auto
+ls --color=auto
+mkdir client/assets/icons
