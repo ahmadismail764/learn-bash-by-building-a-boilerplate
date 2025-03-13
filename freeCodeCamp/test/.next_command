@@ -277,3 +277,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 find -name index.html
 find -name styles.css
+find -name src
