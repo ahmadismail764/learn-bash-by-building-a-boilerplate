@@ -119,3 +119,4 @@ __vsc_prompt_cmd_original
 cd has
 clear
 ls --color=auto
+more README.md
