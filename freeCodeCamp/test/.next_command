@@ -175,3 +175,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 clear
 ls --color=auto
 clear
+mkdir website
