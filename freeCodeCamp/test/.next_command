@@ -223,3 +223,4 @@ ls --color=auto
 mv roboto.font robot.woff
 mv roboto.font roboto.woff
 mv robot.woff roboto.woff
+ls --color=auto
