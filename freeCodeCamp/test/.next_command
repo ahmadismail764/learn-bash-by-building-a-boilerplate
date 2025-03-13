@@ -214,3 +214,4 @@ cp header.png images
 cp footer.jpeg images
 cd ..
 cd website/images
+ls --color=auto
