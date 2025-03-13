@@ -307,3 +307,6 @@ clear
 find
 ls --color=auto
 rmdir images
+rm images/background.png
+ls --color=auto images
+rm images/background.jpg
