@@ -345,3 +345,6 @@ more README.md
 echo fore the freeCodeCamp bash lessons >> README.md
 echo for the freeCodeCamp bash lessons >> README.md
 more README.md
+cd projectls
+ls --color=auto
+cd ..
