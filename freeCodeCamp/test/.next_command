@@ -288,3 +288,4 @@ touch background.jpb
 ls --color=auto
 rm background.jpb
 touch background.jpg
+cd ../../..
