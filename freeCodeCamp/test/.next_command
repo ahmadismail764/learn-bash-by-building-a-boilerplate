@@ -348,3 +348,5 @@ more README.md
 cd projectls
 ls --color=auto
 cd ..
+clear
+ls --color=auto
